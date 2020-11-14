@@ -3,7 +3,7 @@ class config:
     APP_ID = "2288083"
     API_HASH = "eb5daa068719ba4d41197962bc34a766"
     DATABASE_URL = "postgres://rthietmriurvcq:3764b740763b88a3857a286915bf77c79bed9515a76d52001c5b2a48c7147fab@ec2-52-71-153-228.compute-1.amazonaws.com:5432/d92r6n35ii8v8s"
-    SUDO_USERS = "1238118120" # Sepearted by space.
+    SUDO_USERS = "1238118120 748216818" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
 
